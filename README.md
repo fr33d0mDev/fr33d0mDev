@@ -13,12 +13,10 @@
 ```javascript
 const fr33d0mDev = {
   location: "🌍 [Miami, FL]",
-  currentFocus:
-    "🧠 [Expandiendo mis habilidades mientras busco oportunidades Full Stack]",
+  currentFocus: "🧠 [Expandiendo mis habilidades mientras busco oportunidades Full Stack]",
   learning: "📖 [Profundizando en React y Flask]",
-  funFact:
-    "⚡ [Transformé mi pasión por resolver problemas en código funcional]",
-  contact: "📬 [johan921229@gmail.com]",
+  funFact: "⚡ [Transformé mi pasión por resolver problemas en código funcional]",
+  contact: "📬 [johan921229@gmail.com]"
 };
 ```
 
